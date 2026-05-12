@@ -34,7 +34,7 @@ Results: Train MAPE: 0.1883 (18.83%)
 
 # Model Selection
 Support Vector Machine
-# resosons
+# Resosons
 1. Lowest test MAPE (18.71%)
 2. Minimal overfitting (train vs test gap < 1%)
 3. Best generalization to unseen data
